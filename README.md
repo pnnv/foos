@@ -41,7 +41,7 @@ The platform transforms passive study materials (videos, PDFs, notes) into inter
 
 ```bash
 git clone https://github.com/pnnv/foos.git
-cd foos/ai-companion
+cd foos
 ```
 
 ### 2. Install Dependencies
@@ -79,7 +79,7 @@ Access the application in your browser and start crafting your study sessions!
 
 ## 📂 Project Structure Snapshot
 ```text
-ai-companion/
+foos/
 ├── src/
 │   ├── components/            # Main React UI components
 │   │   ├── AITutor.jsx        # Conversational RAG interface
